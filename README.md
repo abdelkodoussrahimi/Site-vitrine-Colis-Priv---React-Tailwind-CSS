@@ -81,8 +81,7 @@ colis-prive/
 
 ## 📸 Aperçu
 
-*(Ajoutez ici des captures d’écran du site)*
-
+![Aperçu de l'application](https://github.com/abdelkodoussrahimi/flutter-ecommerce-app/blob/main/Green%20Gradient%20Application%20Showcase%20Presentation.jpg?raw=true)
 ---
 
 ## 📄 Licence
